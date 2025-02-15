@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(44, 61, 44);
+    
+}
+.header{
+    font: 1.75vw bold;
+    font-family: "Roboto", serif;
+    color: white;
+    text-align: left;
+    margin-top: -2vw;
+}
+img{
+    width: 27.5vw;
+}
+.coffeepic{
+    float: right;
+    margin-top: -6vw;
+
+}
